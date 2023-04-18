@@ -1,3 +1,4 @@
+
 ![](HomePage.JPG)
 -----
 
@@ -22,8 +23,26 @@ The dataset contains messy data and all year orders from 2017 - 2020 were entere
 After the cleaning, the dataset has 13 fields and 3k+ columns
 
 # Data Modeling 
+The dataset consist of one fact table i.e the order dataset. From the fact table, a dimension table was extracted onto a separate table. 
+The fact table consist of 
+- OrderId
+- CustomerId
+- Customer Name 
+- Cookies Shipped 
+- Order date
+- Ship date 
+- Revenue
+- Cost 
+- Profit
+- Days to ship
+- Days of order 
+- Days of ship
 
+The dimension table consist of 
+- CustomerId
+- Customer Name 
 
+This was done to test my data modeling skilsl
 # Insights 
 
 
@@ -31,3 +50,7 @@ After the cleaning, the dataset has 13 fields and 3k+ columns
 
 
 # Recommendation
+
+# Thank you
+
+![](thank-you-2.gif)
