@@ -62,7 +62,8 @@ The following questions were answered
 - In a single visual,show Revenue, Profit, Profit margin, weekdays sales and weekend sales for each year.
 
 ## Answer to business question
- 
+![](dashboard.JPG)
+
 # Conclusion 
 
 
