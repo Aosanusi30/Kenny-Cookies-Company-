@@ -43,6 +43,7 @@ The dimension table consist of
 - Customer Name 
 
 This was done to test my data modeling skils
+![](datamodelling.JPG)
 
 # Insights 
 
