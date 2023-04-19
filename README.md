@@ -72,6 +72,7 @@ The following questions were answered
 
 ## Answer to business question
 ![](dashboard.JPG)
+![](performance.JPG)
 
 # Conclusion 
 
