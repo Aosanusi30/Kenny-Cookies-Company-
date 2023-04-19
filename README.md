@@ -49,10 +49,9 @@ This was done to test my data modeling skils
 - Data modeling
 - Calculated Column 
 - Measure
-- Total Year to Date 
+- DAX
 - Navigation Page 
 - Tool Tips 
-- Proft Margin 
 
 # Business Questions
 The following questions were answered 
@@ -69,6 +68,7 @@ The following questions were answered
 - Which day of the week has the highest shipment for each year 
 - Which customer has the most order and which customer has the highest purchase?
 - In a single visual,show Revenue, Profit, Profit margin, weekdays sales and weekend sales for each year.
+- Does the Amount of cookies shipped increases the day of shipment?
 
 ## Answer to business question
 ![](dashboard.JPG)
