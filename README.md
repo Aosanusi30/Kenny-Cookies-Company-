@@ -45,6 +45,15 @@ The dimension table consist of
 This was done to test my data modeling skils
 ![](datamodelling.JPG)
 
+# Skills Showcased
+- Data modeling
+- Calculated Column 
+- Measure
+- Total Year to Date 
+- Navigation Page 
+- Tool Tips 
+- Proft Margin 
+
 # Business Questions
 The following questions were answered 
 - What is the total cookies shipped? 
