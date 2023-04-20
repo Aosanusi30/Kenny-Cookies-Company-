@@ -22,6 +22,10 @@ The dataset contains messy data and all year orders from 2017 - 2020 were entere
 
 After the cleaning, the dataset has 13 fields and 3k+ columns
 
+| cleaned columns | 
+| Cleaned column| Uncleaned column 
+| | |
+
 # Data Modeling 
 The dataset consist of one fact table i.e the order table. From the fact table, a dimension table was extracted onto a separate table. 
 The fact table consist of 
