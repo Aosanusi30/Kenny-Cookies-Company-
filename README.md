@@ -76,8 +76,17 @@ The following questions were answered
 
 ## Answer to business question
 ![](dashboard.JPG)
+
 ![](performance.JPG)
 
+### General Summary
+Total Revenue generated from January 2017 to 2020 is $8.27 million and the Total profit is $4.14 million. From 2017 - 2020, 2 million cookies has been shipped to our customers. And the customer with the highest purchase are Cascade Grovers followed by Quick Bite. Though, all customers are valuable because they bring money to the table, regardles of how small but our most valuable customers are these two mentioned. 
+
+At $1,240,545, Friday had the highest Revenue and was 8.55% higher than Monday, which had the lowest Revenue at $1,142,840.﻿﻿ ﻿﻿Friday accounted for 15.00% of Revenue.﻿﻿ ﻿﻿Across all 7 Days of order, Revenue ranged from $1,142,840 to $1,240,545.﻿﻿
+
+At 249984, Friday had the highest Cookies Shipped and was 3,083.29% higher than, which had the lowest Cookies Shipped at 7853.﻿﻿ ﻿﻿Friday accounted for 15.11% of Cookies Shipped.﻿﻿ ﻿﻿Across all 8 Days to ship, Cookies Shipped ranged from 7853 to 249984.
+
+According to the data analyzed, it took some cookies 6 days to be shipped out of the factory and the average shipped day is (4) four. The factory manager and other stakeholders should look into this as the time taken to shipped out cookies late. 
 # Conclusion 
 
 
@@ -86,3 +95,4 @@ The following questions were answered
 # Thank you
 
 ![](thank-you-2.gif)
+
