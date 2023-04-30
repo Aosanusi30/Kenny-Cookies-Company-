@@ -22,9 +22,9 @@ The dataset contains messy data and all year orders from 2017 - 2020 were entere
 
 After the cleaning, the dataset has 13 fields and 3k+ columns
 
-| cleaned columns | 
-| Cleaned column| Uncleaned column 
-| | |
+| All Orders Table     | All Orders Table Merged | All Orders Table Cleaned     | 
+|-----------------:|:------------------:|:-------------------|
+|![](allorders.JPG)| ![](allorders2.JPG) | ![](allordersclean.JPG) |
 
 # Data Modeling 
 The dataset consist of one fact table i.e the order table. From the fact table, a dimension table was extracted onto a separate table. 
@@ -79,7 +79,7 @@ The following questions were answered
 
 ![](performance.JPG)
 
-### General Summary
+# General Summary
 Total Revenue generated from January 2017 to 2020 is $8.27 million and the Total profit is $4.14 million. From 2017 - 2020, 2 million cookies has been shipped to our customers. And the customer with the highest purchase are Cascade Grovers followed by Quick Bite. Though, all customers are valuable because they bring money to the table, regardles of how small but our most valuable customers are these two mentioned out of our five (5) customers. 
 
 The profit margin from 2017 - 2020 is 50%, weekdays sales are $1,495,415, $1,584,155, $1480,130 and $1,355,255 and weekend sales are $737,610, $563,120, $556,810 and $459,725 from 2017 to 2020 respectively. 
@@ -89,9 +89,6 @@ At $1,240,545, Friday had the highest Revenue and was 8.55% higher than Monday, 
 At 249984, Friday had the highest Cookies Shipped and was 3,083.29% higher than, which had the lowest Cookies Shipped at 7853.﻿﻿ ﻿﻿Friday accounted for 15.11% of Cookies Shipped.﻿﻿ ﻿﻿Across all 8 Days to ship, Cookies Shipped ranged from 7853 to 249984.
 
 The average ship day of cookies is (4) four. 
-
-# Conclusion 
-
 
 # Recommendation
 According to the data analyzed, it took some cookies 6 days to be shipped out of the factory and the average shipped day is (4) four. 
