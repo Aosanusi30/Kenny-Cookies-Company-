@@ -31,7 +31,6 @@ The dataset consist of one fact table i.e the order table. From the fact table, 
 The fact table consist of 
 - OrderId
 - CustomerId
-- Customer Name 
 - Cookies Shipped 
 - Order date
 - Ship date 
