@@ -5,7 +5,7 @@
 
 
 # Introduction
-This data was gotten from Alex YouTube Channel. And it contains four (4) excel sheets. Power BI was used to clean, analyze and visualize the report. The datasets all together are 9 fields and 3k+ records 
+This data was gotten from Kelvin YouTube Channel. And it contains four (4) excel sheets. Power BI was used to clean, analyze and visualize the report. The datasets all together are 9 fields and 3k+ records 
 
 ***Disclaimer***: *The company 'Kenny Cookies Company' is an imaginary and do not in anyway relates to an actual company.*
 
